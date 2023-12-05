@@ -23,7 +23,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"I have experience in working with web based applications such as E-commerce System, Point of Sale (POS) System, Learning Management System(LMS), Content Management System(CMS), Logistics(Express) Management System, VPN (Virtual Private Network) System and Realtime based web applications by using Laravel, Vue.js, Node.js.",
+    "aboutme":"I have experience in working with web-based applications such as E-commerce Systems, Point of Sale (POS) Systems, Learning Management Systems (LMS), Content Management Systems (CMS), Logistics(Express) Management Systems, VPN (Virtual Private Network) Systems and Realtime based web applications by using PHP, Laravel, Node.js, Vue.js, React.js.",
     "address":"Myanmar",
     "website":"thuranaingrocm77@gmail.com",
     "education":[
@@ -125,16 +125,16 @@ let resumeData = {
         'link' : 'https://abc-browser.com/'
       },
       {
-        "name":"Akoneya",
-        "description":"Mobile App",
-        "imgurl":"images/portfolio/akoneya.png",
-        "link" : "https://play.google.com/store/apps/details?id=com.tamron.akoneya&hl=en&gl=US"
+        "name":"MGL Express",
+        "description":"Web and Mobile App",
+        "imgurl":"images/portfolio/mgl.png",
+        "link" : "https://mglexpress.com.mm"
       },
       {
-        "name":"Akoneya Vendor",
+        "name":"AAA VPN",
         "description":"Mobile App",
-        "imgurl":"images/portfolio/akoneya-vendor.png",
-        "link" : "#"
+        "imgurl":"images/portfolio/logo.svg",
+        'link' : 'https://apps.apple.com/us/app/aaa-secure/id1601800821'
       },
       {
         "name":"BusyBees",
@@ -149,22 +149,28 @@ let resumeData = {
         "link" : "https://play.google.com/store/apps/details?id=com.busybees.busybeesvendor"
       },
       {
-        "name":"MGL Express",
-        "description":"Web and Mobile App",
-        "imgurl":"images/portfolio/mgl.png",
-        "link" : "https://mglexpress.com.mm"
+        "name":"Baydinywar",
+        "description":"Web App",
+        "imgurl":"images/portfolio/bdy.png",
+        "link" : "https://play.google.com/store/apps/details?id=com.securelinkmm.horoscope&hl=en_AU&gl=US"
+      },
+      {
+        "name":"Akoneya",
+        "description":"Mobile App",
+        "imgurl":"images/portfolio/akoneya.png",
+        "link" : "https://play.google.com/store/apps/details?id=com.tamron.akoneya&hl=en&gl=US"
+      },
+      {
+        "name":"Akoneya Vendor",
+        "description":"Mobile App",
+        "imgurl":"images/portfolio/akoneya-vendor.png",
+        "link" : "#"
       },
       {
         "name":"Learn (LMS)",
         "description":"Web App",
         "imgurl":"images/portfolio/learn.png",
         "link" : "#"
-      },
-      {
-        "name":"Baydinywar",
-        "description":"Web App",
-        "imgurl":"images/portfolio/bdy.png",
-        "link" : "https://play.google.com/store/apps/details?id=com.securelinkmm.horoscope&hl=en_AU&gl=US"
       }
     ],
     "testimonials":[
